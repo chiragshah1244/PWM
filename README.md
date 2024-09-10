@@ -1,6 +1,6 @@
 ON cycles = (Duty Cycle Percentage / 100) * Total clock cycle.
 
-Example : (shown in the wave dump).
+Example for 25% duty cycle : (shown in the wave dump .png files).
 
 -> ON cycles = (25 / 100) * 256 = 64
 
